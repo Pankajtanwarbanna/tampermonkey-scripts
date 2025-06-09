@@ -14,7 +14,7 @@ Think of it as your personal web modding engine — you can tweak, automate, or 
 
 ## ⚙️ Scripts Included
 
-### 💀 [Shame Meter](./scripts/shame-meter.user.js)
+### 💀 [Shame Meter](./shame-meter/shame-meter.user.js)
 
 A brutally honest script that:
 
@@ -25,6 +25,11 @@ A brutally honest script that:
 
 **Use case:** Productivity guilt, accountability, masochism.
 
+### 🤝 [LinkedIn Auto-Accept](./auto-accept-linkedin-requests/auto-accept.user.js)
+
+Auto-accepts all pending LinkedIn connection requests every few seconds.
+
+**Use case:**: Lazy networking, automating the boring.
 ---
 
 ## 🛠 Installation
