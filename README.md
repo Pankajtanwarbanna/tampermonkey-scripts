@@ -30,6 +30,14 @@ A brutally honest script that:
 Auto-accepts all pending LinkedIn connection requests every few seconds.
 
 **Use case:**: Lazy networking, automating the boring.
+
+### 📋 [CI Arifacts Tag Copier](./github-ci-artifacts-tag-copier/tag-copier.user.js)
+
+- Copies the Docker Image tag and Helm version tag on GitHub PR Checks page for work repos
+- Adds a copy button for each tag
+
+**Use case**: At work, helping with Docker Image Tag, Helm Chart Version
+
 ---
 
 ## 🛠 Installation
