@@ -51,16 +51,3 @@ Yup.
 
 This is a joke tool (sort of). Use at your own risk. May cause existential reflection and/or laughter.  
 I take no responsibility for any emotional damage caused.  
-
----
-
-## 🙃 Contribute
-
-Got roast ideas that hurt even more? PRs welcome.  
-Let’s turn this into the most aggressively honest productivity tool on the internet.
-
----
-
-## 📜 License
-
-MIT – because roasting should be free.
